@@ -1,7 +1,7 @@
 ﻿#include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-
+//배열을 이용한 스택 구현 프로그램 배열
 #define MAX_STACK_SIZE 5
 
 typedef int element;
